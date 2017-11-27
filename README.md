@@ -1,7 +1,7 @@
 # rtl8812au-5.2.9
 
 it's a cloned repo from Gordboy. She or he is no longer in Github. All credits
-go to him or she.
+go to him or her.
 
 ## Realtek 8812AU driver version 5.2.9.3
 
